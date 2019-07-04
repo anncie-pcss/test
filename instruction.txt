@@ -1,0 +1,8 @@
+Aplikacja wykorzystuje Google Books API do wyszukiwania książek.
+
+Należy:
+
+1. Poprawić błędy i zoptymalizować kod.
+2. Podzielić stronę na postrony: główną z sekcją #main oraz oddzielną dla sekcji #recent (menu powinno znaleźć się na obu z nich).
+3. W sekcji #recent umieścić listę dziesięciu ostatnio wyszukiwanych haseł.
+4. Wykorzystując możliwości API dodać stronicowanie, na każdej ze stron powinno znaleźć się po 20 wyszukanych elementów.
